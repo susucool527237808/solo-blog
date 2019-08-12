@@ -10,8 +10,8 @@ susucool
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.susucool.com/my-github-repos)
-* [世界，你好！](http://www.susucool.com/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.susucool.com/my-github-repos)
+* [世界，你好！](https://www.susucool.com/hello-solo)
 
 
 
