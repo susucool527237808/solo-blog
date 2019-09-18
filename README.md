@@ -5,7 +5,7 @@ susucool
 <h4 align="center">如果不能做强者，至少做一个偏执善良的人，混蛋</h4>
 <p align="center"><a title="susucool" target="_blank" href="https://github.com/susucool527237808/solo-blog"><img src="https://img.shields.io/github/last-commit/susucool527237808/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/susucool527237808/solo-blog"><img src="https://img.shields.io/github/repo-size/susucool527237808/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/susucool527237808/solo-blog.svg"></a></p>
 
 ### 最新
